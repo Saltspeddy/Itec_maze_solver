@@ -1,0 +1,17 @@
+11:56:29 **** Incremental Build of configuration Debug for project Bluetooth module ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../USB_HOST/App -I../USB_HOST/Target -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/ST/STM32_USB_Host_Library/Core/Inc -I../Middlewares/ST/STM32_USB_Host_Library/Class/CDC/Inc -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "Bluetooth module.elf" @"objects.list"   -mcpu=cortex-m4 -T"D:\embedded_itec\Bluetooth module\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Bluetooth module.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Bluetooth module.elf
+ 
+arm-none-eabi-size  Bluetooth\ module.elf 
+arm-none-eabi-objdump -h -S Bluetooth\ module.elf  > "Bluetooth module.list"
+   text	   data	    bss	    dec	    hex	filename
+  40796	    124	   4204	  45124	   b044	Bluetooth module.elf
+Finished building: default.size.stdout
+ 
+Finished building: Bluetooth module.list
+ 
+
+11:56:31 Build Finished. 0 errors, 0 warnings. (took 2s.241ms)
+

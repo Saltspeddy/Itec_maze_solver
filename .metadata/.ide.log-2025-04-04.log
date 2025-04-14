@@ -1,0 +1,615 @@
+2025-04-05 00:00:04,106 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 562852136 Bytes (982515712)
+2025-04-05 00:00:04,785 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-04-05 00:00:04,785 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-04-05 00:00:04,785 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2S
+2025-04-05 00:00:04,785 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-04-05 00:00:04,785 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-04-05 00:00:04,785 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-04-05 00:00:04,786 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USB_OTG_FS
+2025-04-05 00:00:04,786 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-04-05 00:00:04,786 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USB_HOST
+2025-04-05 00:00:04,786 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-04-05 00:00:04,790 [INFO] CodeGenerator:882 - code generatio: config db path: D:\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\
+2025-04-05 00:00:04,793 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-04-05 00:00:04,793 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-04-05 00:00:05,091 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\license.tmp_save
+2025-04-05 00:00:05,414 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\license.tmp
+2025-04-05 00:00:05,579 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\gpio.tmp_save
+2025-04-05 00:00:05,749 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\gpio.tmp
+2025-04-05 00:00:05,853 [WARN] IPConfigManager:3174 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2025-04-05 00:00:05,930 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2025-04-05 00:00:06,064 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_vars.tmp
+2025-04-05 00:00:06,079 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2025-04-05 00:00:06,188 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_inc.tmp
+2025-04-05 00:00:06,249 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2025-04-05 00:00:06,386 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2025-04-05 00:00:06,433 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2025-04-05 00:00:06,600 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_Msp.tmp
+2025-04-05 00:00:07,047 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.c_save
+2025-04-05 00:00:07,155 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.c
+2025-04-05 00:00:07,182 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.h_save
+2025-04-05 00:00:07,283 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.h
+2025-04-05 00:00:07,322 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.h_save
+2025-04-05 00:00:07,417 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.h
+2025-04-05 00:00:07,452 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.c_save
+2025-04-05 00:00:07,555 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.c
+2025-04-05 00:00:07,581 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.c_save
+2025-04-05 00:00:07,661 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.c
+2025-04-05 00:00:07,685 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.h_save
+2025-04-05 00:00:07,768 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.h
+2025-04-05 00:00:07,880 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_it.c_save
+2025-04-05 00:00:08,064 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_it.c
+2025-04-05 00:00:08,090 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_it.h_save
+2025-04-05 00:00:08,171 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_it.h
+2025-04-05 00:00:08,286 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_hal_msp.c_save
+2025-04-05 00:00:08,457 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_hal_msp.c
+2025-04-05 00:00:08,510 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\system.tmp_save
+2025-04-05 00:00:08,580 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\system.tmp
+2025-04-05 00:00:08,665 [INFO] CodeEngine:319 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-04-05 00:00:08,764 [INFO] CodeEngine:343 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_hal_conf.h
+2025-04-05 00:00:08,803 [INFO] ApiDbMcu:508 - Load IP Config File for I2C1
+2025-04-05 00:00:08,806 [INFO] ApiDbMcu:508 - Load IP Config File for I2S3
+2025-04-05 00:00:08,810 [INFO] ApiDbMcu:508 - Load IP Config File for SPI1
+2025-04-05 00:00:08,820 [INFO] ApiDbMcu:508 - Load IP Config File for TIM3
+2025-04-05 00:00:08,825 [INFO] ApiDbMcu:508 - Load IP Config File for RCC
+2025-04-05 00:00:08,828 [WARN] IPConfigManager:3747 - IP not found : TIM
+2025-04-05 00:00:08,831 [WARN] CodeGenerator:4198 - IP not found : null
+2025-04-05 00:00:08,905 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\main.h_save
+2025-04-05 00:00:09,010 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\main.h
+2025-04-05 00:00:09,049 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\main.c_save
+2025-04-05 00:00:09,205 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\main.c
+2025-04-05 00:00:10,600 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 1202mS.
+2025-04-05 00:00:10,613 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0-B36
+2025-04-05 00:00:10,707 [INFO] ConfigFileManager:1590 - The Die is : DIE413
+2025-04-05 00:00:10,717 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2025-04-05 00:00:10,732 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2025-04-05 00:00:10,740 [INFO] ApiDbMcu:508 - Load IP Config File for LIBJPEG
+2025-04-05 00:00:10,756 [INFO] ApiDbMcu:508 - Load IP Config File for LWIP
+2025-04-05 00:00:10,770 [INFO] ApiDbMcu:508 - Load IP Config File for MBEDTLS
+2025-04-05 00:00:10,785 [INFO] ApiDbMcu:508 - Load IP Config File for USB_DEVICE
+2025-04-05 00:00:12,366 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 1753mS.
+2025-04-05 00:00:12,368 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-04-05 00:00:12,378 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-04-05 00:38:02,671 [INFO] I2sManager:658 - 9.6E7
+2025-04-05 00:38:02,725 [INFO] I2sManager:195 - I2S Clock Value : 9.6E7
+2025-04-05 00:38:02,731 [INFO] I2sManager:553 - AudioClock : 93750Divider : 2Odd : 0
+2025-04-05 00:38:27,053 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 859894088 Bytes (982515712)
+2025-04-05 00:38:29,069 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 886109152 Bytes (982515712)
+2025-04-05 00:38:32,721 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 428939688 Bytes (982515712)
+2025-04-05 00:38:34,031 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-04-05 00:38:34,032 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-04-05 00:38:34,032 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2S
+2025-04-05 00:38:34,032 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-04-05 00:38:34,032 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-04-05 00:38:34,032 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-04-05 00:38:34,032 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USB_OTG_FS
+2025-04-05 00:38:34,033 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-04-05 00:38:34,033 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USB_HOST
+2025-04-05 00:38:34,034 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-04-05 00:38:34,041 [INFO] CodeGenerator:882 - code generatio: config db path: D:\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\
+2025-04-05 00:38:34,053 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-04-05 00:38:34,053 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-04-05 00:38:34,500 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\license.tmp_save
+2025-04-05 00:38:34,924 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\license.tmp
+2025-04-05 00:38:35,133 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\gpio.tmp_save
+2025-04-05 00:38:35,387 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\gpio.tmp
+2025-04-05 00:38:35,606 [WARN] IPConfigManager:3174 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2025-04-05 00:38:35,700 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2025-04-05 00:38:35,861 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_vars.tmp
+2025-04-05 00:38:35,875 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2025-04-05 00:38:35,999 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_inc.tmp
+2025-04-05 00:38:36,039 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2025-04-05 00:38:36,216 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2025-04-05 00:38:36,264 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2025-04-05 00:38:36,450 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_Msp.tmp
+2025-04-05 00:38:37,275 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.c_save
+2025-04-05 00:38:37,467 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.c
+2025-04-05 00:38:37,519 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.h_save
+2025-04-05 00:38:37,974 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.h
+2025-04-05 00:38:38,016 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.h_save
+2025-04-05 00:38:38,276 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.h
+2025-04-05 00:38:38,309 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.c_save
+2025-04-05 00:38:38,517 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.c
+2025-04-05 00:38:38,544 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.c_save
+2025-04-05 00:38:38,636 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.c
+2025-04-05 00:38:38,656 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.h_save
+2025-04-05 00:38:38,750 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.h
+2025-04-05 00:38:38,875 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_it.c_save
+2025-04-05 00:38:39,112 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_it.c
+2025-04-05 00:38:39,133 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_it.h_save
+2025-04-05 00:38:39,223 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_it.h
+2025-04-05 00:38:39,306 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_hal_msp.c_save
+2025-04-05 00:38:39,482 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_hal_msp.c
+2025-04-05 00:38:39,510 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\system.tmp_save
+2025-04-05 00:38:39,578 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\system.tmp
+2025-04-05 00:38:39,657 [INFO] CodeEngine:319 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-04-05 00:38:39,762 [INFO] CodeEngine:343 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_hal_conf.h
+2025-04-05 00:38:39,826 [WARN] IPConfigManager:3747 - IP not found : TIM
+2025-04-05 00:38:39,830 [WARN] CodeGenerator:4198 - IP not found : null
+2025-04-05 00:38:39,891 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\main.h_save
+2025-04-05 00:38:40,020 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\main.h
+2025-04-05 00:38:40,054 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\main.c_save
+2025-04-05 00:38:40,228 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\main.c
+2025-04-05 00:38:42,188 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 1616mS.
+2025-04-05 00:38:42,206 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0-B36
+2025-04-05 00:38:42,292 [INFO] ConfigFileManager:1590 - The Die is : DIE413
+2025-04-05 00:38:43,944 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 1739mS.
+2025-04-05 00:38:43,946 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-04-05 00:38:43,956 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-04-05 00:54:56,134 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-04-05 00:54:57,345 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 475340328 Bytes (982515712)
+2025-04-05 00:55:03,405 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 500672992 Bytes (982515712)
+2025-04-05 00:55:26,929 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 588146704 Bytes (982515712)
+2025-04-05 00:55:27,417 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-04-05 00:55:27,417 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-04-05 00:55:27,417 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2S
+2025-04-05 00:55:27,417 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-04-05 00:55:27,417 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-04-05 00:55:27,417 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-04-05 00:55:27,417 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USB_OTG_FS
+2025-04-05 00:55:27,417 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-04-05 00:55:27,418 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USB_HOST
+2025-04-05 00:55:27,418 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-04-05 00:55:27,424 [INFO] CodeGenerator:882 - code generatio: config db path: D:\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\
+2025-04-05 00:55:27,429 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-04-05 00:55:27,429 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-04-05 00:55:27,615 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\license.tmp_save
+2025-04-05 00:55:27,771 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\license.tmp
+2025-04-05 00:55:27,875 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\gpio.tmp_save
+2025-04-05 00:55:27,977 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\gpio.tmp
+2025-04-05 00:55:28,048 [WARN] IPConfigManager:3174 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2025-04-05 00:55:28,097 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2025-04-05 00:55:28,163 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_vars.tmp
+2025-04-05 00:55:28,173 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2025-04-05 00:55:28,233 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_inc.tmp
+2025-04-05 00:55:28,259 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2025-04-05 00:55:28,344 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2025-04-05 00:55:28,367 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2025-04-05 00:55:28,455 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_Msp.tmp
+2025-04-05 00:55:28,791 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.c_save
+2025-04-05 00:55:28,883 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.c
+2025-04-05 00:55:28,900 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.h_save
+2025-04-05 00:55:28,987 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.h
+2025-04-05 00:55:29,009 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.h_save
+2025-04-05 00:55:29,090 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.h
+2025-04-05 00:55:29,112 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.c_save
+2025-04-05 00:55:29,203 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.c
+2025-04-05 00:55:29,222 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.c_save
+2025-04-05 00:55:29,299 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.c
+2025-04-05 00:55:29,315 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.h_save
+2025-04-05 00:55:29,393 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.h
+2025-04-05 00:55:29,467 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_it.c_save
+2025-04-05 00:55:29,673 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_it.c
+2025-04-05 00:55:29,690 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_it.h_save
+2025-04-05 00:55:29,767 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_it.h
+2025-04-05 00:55:29,832 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_hal_msp.c_save
+2025-04-05 00:55:29,950 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_hal_msp.c
+2025-04-05 00:55:29,975 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\system.tmp_save
+2025-04-05 00:55:30,040 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\system.tmp
+2025-04-05 00:55:30,102 [INFO] CodeEngine:319 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-04-05 00:55:30,204 [INFO] CodeEngine:343 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_hal_conf.h
+2025-04-05 00:55:30,256 [WARN] IPConfigManager:3747 - IP not found : TIM
+2025-04-05 00:55:30,261 [WARN] CodeGenerator:4198 - IP not found : null
+2025-04-05 00:55:30,345 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\main.h_save
+2025-04-05 00:55:30,462 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\main.h
+2025-04-05 00:55:30,487 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\main.c_save
+2025-04-05 00:55:30,626 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\main.c
+2025-04-05 00:55:31,472 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 635mS.
+2025-04-05 00:55:31,485 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0-B36
+2025-04-05 00:55:31,561 [INFO] ConfigFileManager:1590 - The Die is : DIE413
+2025-04-05 00:55:33,952 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 2468mS.
+2025-04-05 00:55:33,954 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-04-05 00:55:33,967 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-04-05 01:02:49,662 [INFO] I2sManager:658 - 9.6E7
+2025-04-05 01:02:49,679 [INFO] I2sManager:195 - I2S Clock Value : 9.6E7
+2025-04-05 01:02:49,681 [INFO] I2sManager:553 - AudioClock : 93750Divider : 2Odd : 0
+2025-04-05 01:03:56,497 [INFO] I2sManager:658 - 9.6E7
+2025-04-05 01:03:56,497 [INFO] I2sManager:195 - I2S Clock Value : 9.6E7
+2025-04-05 01:03:56,497 [INFO] I2sManager:553 - AudioClock : 93750Divider : 2Odd : 0
+2025-04-05 01:04:10,568 [INFO] I2sManager:658 - 9.6E7
+2025-04-05 01:04:10,568 [INFO] I2sManager:195 - I2S Clock Value : 9.6E7
+2025-04-05 01:04:10,568 [INFO] I2sManager:553 - AudioClock : 93750Divider : 2Odd : 0
+2025-04-05 01:04:25,661 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-04-05 01:04:39,363 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 445044008 Bytes (1073741824)
+2025-04-05 01:04:40,989 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 470736168 Bytes (1073741824)
+2025-04-05 01:04:43,124 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 548853032 Bytes (1073741824)
+2025-04-05 01:04:43,865 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-04-05 01:04:43,865 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-04-05 01:04:43,865 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2S
+2025-04-05 01:04:43,866 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-04-05 01:04:43,866 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-04-05 01:04:43,866 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-04-05 01:04:43,866 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USB_OTG_FS
+2025-04-05 01:04:43,866 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-04-05 01:04:43,866 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USB_HOST
+2025-04-05 01:04:43,866 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-04-05 01:04:43,869 [INFO] CodeGenerator:882 - code generatio: config db path: D:\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\
+2025-04-05 01:04:43,873 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-04-05 01:04:43,873 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-04-05 01:04:44,194 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\license.tmp_save
+2025-04-05 01:04:44,381 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\license.tmp
+2025-04-05 01:04:44,498 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\gpio.tmp_save
+2025-04-05 01:04:44,639 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\gpio.tmp
+2025-04-05 01:04:44,724 [WARN] IPConfigManager:3174 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2025-04-05 01:04:44,785 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2025-04-05 01:04:44,892 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_vars.tmp
+2025-04-05 01:04:44,901 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2025-04-05 01:04:44,993 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_inc.tmp
+2025-04-05 01:04:45,024 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2025-04-05 01:04:45,113 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2025-04-05 01:04:45,136 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2025-04-05 01:04:45,231 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_Msp.tmp
+2025-04-05 01:04:45,558 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.c_save
+2025-04-05 01:04:45,652 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.c
+2025-04-05 01:04:45,673 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.h_save
+2025-04-05 01:04:45,760 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.h
+2025-04-05 01:04:45,782 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.h_save
+2025-04-05 01:04:45,888 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.h
+2025-04-05 01:04:45,913 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.c_save
+2025-04-05 01:04:46,014 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.c
+2025-04-05 01:04:46,035 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.c_save
+2025-04-05 01:04:46,117 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.c
+2025-04-05 01:04:46,137 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.h_save
+2025-04-05 01:04:46,218 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.h
+2025-04-05 01:04:46,312 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_it.c_save
+2025-04-05 01:04:46,422 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_it.c
+2025-04-05 01:04:46,441 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_it.h_save
+2025-04-05 01:04:46,521 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_it.h
+2025-04-05 01:04:46,597 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_hal_msp.c_save
+2025-04-05 01:04:46,717 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_hal_msp.c
+2025-04-05 01:04:46,742 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\system.tmp_save
+2025-04-05 01:04:46,806 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\system.tmp
+2025-04-05 01:04:46,879 [INFO] CodeEngine:319 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-04-05 01:04:46,981 [INFO] CodeEngine:343 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_hal_conf.h
+2025-04-05 01:04:47,019 [WARN] IPConfigManager:3747 - IP not found : TIM
+2025-04-05 01:04:47,021 [WARN] CodeGenerator:4198 - IP not found : null
+2025-04-05 01:04:47,082 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\main.h_save
+2025-04-05 01:04:47,168 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\main.h
+2025-04-05 01:04:47,194 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\main.c_save
+2025-04-05 01:04:47,343 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\main.c
+2025-04-05 01:04:48,201 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 671mS.
+2025-04-05 01:04:48,213 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0-B36
+2025-04-05 01:04:48,302 [INFO] ConfigFileManager:1590 - The Die is : DIE413
+2025-04-05 01:04:49,800 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 1587mS.
+2025-04-05 01:04:49,802 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-04-05 01:04:49,819 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 1mS.
+2025-04-05 01:06:31,739 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2025-04-05 01:06:32,563 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 708206776 Bytes (1073741824)
+2025-04-05 01:06:34,269 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 733372600 Bytes (1073741824)
+2025-04-05 01:06:46,325 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 815161528 Bytes (1073741824)
+2025-04-05 01:06:47,130 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SPI
+2025-04-05 01:06:47,131 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: TIM1_8
+2025-04-05 01:06:47,131 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2S
+2025-04-05 01:06:47,131 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: SYS
+2025-04-05 01:06:47,131 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-04-05 01:06:47,131 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: I2C
+2025-04-05 01:06:47,131 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USB_OTG_FS
+2025-04-05 01:06:47,131 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-04-05 01:06:47,131 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: USB_HOST
+2025-04-05 01:06:47,132 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-04-05 01:06:47,138 [INFO] CodeGenerator:882 - code generatio: config db path: D:\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\
+2025-04-05 01:06:47,150 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-04-05 01:06:47,150 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-04-05 01:06:47,924 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\license.tmp_save
+2025-04-05 01:06:48,127 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\license.tmp
+2025-04-05 01:06:48,315 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\gpio.tmp_save
+2025-04-05 01:06:48,440 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\gpio.tmp
+2025-04-05 01:06:48,673 [WARN] IPConfigManager:3174 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2025-04-05 01:06:48,730 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2025-04-05 01:06:48,840 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_vars.tmp
+2025-04-05 01:06:48,851 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2025-04-05 01:06:49,126 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_inc.tmp
+2025-04-05 01:06:49,151 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2025-04-05 01:06:49,498 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2025-04-05 01:06:49,530 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2025-04-05 01:06:49,672 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\usb_otg_fs_Msp.tmp
+2025-04-05 01:06:52,621 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.c_save
+2025-04-05 01:06:52,754 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.c
+2025-04-05 01:06:52,778 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.h_save
+2025-04-05 01:06:52,880 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\App\usb_host.h
+2025-04-05 01:06:52,904 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.h_save
+2025-04-05 01:06:53,014 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.h
+2025-04-05 01:06:53,038 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.c_save
+2025-04-05 01:06:53,226 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_conf.c
+2025-04-05 01:06:53,273 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.c_save
+2025-04-05 01:06:53,542 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.c
+2025-04-05 01:06:53,563 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.h_save
+2025-04-05 01:06:53,744 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\USB_HOST\Target\usbh_platform.h
+2025-04-05 01:06:53,921 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_it.c_save
+2025-04-05 01:06:54,143 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_it.c
+2025-04-05 01:06:54,167 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_it.h_save
+2025-04-05 01:06:54,394 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_it.h
+2025-04-05 01:06:54,536 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_hal_msp.c_save
+2025-04-05 01:06:54,740 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\stm32f4xx_hal_msp.c
+2025-04-05 01:06:54,770 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\MXTmpFiles\system.tmp_save
+2025-04-05 01:06:54,874 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\MXTmpFiles\system.tmp
+2025-04-05 01:06:54,994 [INFO] CodeEngine:319 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_hal_conf.h_save
+2025-04-05 01:06:55,144 [INFO] CodeEngine:343 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\stm32f4xx_hal_conf.h
+2025-04-05 01:06:55,202 [WARN] IPConfigManager:3747 - IP not found : TIM
+2025-04-05 01:06:55,204 [WARN] CodeGenerator:4198 - IP not found : null
+2025-04-05 01:06:55,290 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Inc\main.h_save
+2025-04-05 01:06:55,414 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Inc\main.h
+2025-04-05 01:06:55,456 [INFO] CodeEngine:263 - oldGeneratedFile, D:\embedded_itec\pwm_motors\Core\Src\main.c_save
+2025-04-05 01:06:55,720 [INFO] CodeEngine:287 - Generated code: D:\embedded_itec\pwm_motors\Core\Src\main.c
+2025-04-05 01:06:57,003 [INFO] ProjectBuilder:3324 - Time for Copy HAL[1] : 721mS.
+2025-04-05 01:06:57,024 [INFO] ProjectBuilder:4912 - Project Generator version: 4.6.0-B36
+2025-04-05 01:06:57,184 [INFO] ConfigFileManager:1590 - The Die is : DIE413
+2025-04-05 01:07:00,907 [INFO] ProjectBuilder:5191 - Time for Generating toolchain IDE Files: 3879mS.
+2025-04-05 01:07:00,909 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 2mS.
+2025-04-05 01:07:00,928 [INFO] ProjectBuilder:3181 - Time for Copy CMSIS : 0mS.
+2025-04-05 01:11:22,496 [INFO] Gpio:277 - dependency for GPIO [I2C1, I2S3, RCC, SPI1, SYS, TIM3, USB_OTG_FS]
+2025-04-05 01:18:00,089 [INFO] MainUpdater:2872 - connection check result : 10
+2025-04-05 01:18:00,095 [INFO] MainUpdater:2872 - connection check result : 10
+2025-04-05 01:18:00,292 [INFO] I2sManager:658 - 9.6E7
+2025-04-05 01:18:00,293 [INFO] I2sManager:195 - I2S Clock Value : 9.6E7
+2025-04-05 01:18:00,294 [INFO] I2sManager:553 - AudioClock : 93750Divider : 2Odd : 0
+2025-04-05 01:18:00,304 [INFO] MicroXplorer:468 - Change Database Path : 
+2025-04-05 01:18:00,304 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.140
+2025-04-05 01:18:00,357 [ERROR] ProjectManagerView:394 - 
+java.lang.NullPointerException: Cannot invoke "javax.swing.JTextField.getText()" because the return value of "java.util.List.get(int)" is null
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab$9.caretUpdate(ProjectChoiceTab.java:2678) ~[filemanager.jar:?]
+	at javax.swing.text.JTextComponent.fireCaretUpdate(JTextComponent.java:408) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.fire(JTextComponent.java:4484) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.stateChanged(JTextComponent.java:4506) ~[?:?]
+	at javax.swing.text.DefaultCaret.fireStateChanged(DefaultCaret.java:857) ~[?:?]
+	at javax.swing.text.DefaultCaret.changeCaretPosition(DefaultCaret.java:1343) ~[?:?]
+	at javax.swing.text.DefaultCaret.handleSetDot(DefaultCaret.java:1242) ~[?:?]
+	at javax.swing.text.DefaultCaret.setDot(DefaultCaret.java:1223) ~[?:?]
+	at javax.swing.text.DefaultCaret$Handler.insertUpdate(DefaultCaret.java:1819) ~[?:?]
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(AbstractDocument.java:227) ~[?:?]
+	at javax.swing.text.AbstractDocument.handleInsertString(AbstractDocument.java:781) ~[?:?]
+	at javax.swing.text.AbstractDocument.insertString(AbstractDocument.java:740) ~[?:?]
+	at javax.swing.text.PlainDocument.insertString(PlainDocument.java:131) ~[?:?]
+	at javax.swing.text.AbstractDocument.replace(AbstractDocument.java:699) ~[?:?]
+	at javax.swing.text.JTextComponent.setText(JTextComponent.java:1725) ~[?:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.createHeapStackFields(ProjectChoiceTab.java:979) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.buildLinkSettingsPanel(ProjectChoiceTab.java:3766) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.defineWindowsFields(ProjectChoiceTab.java:1962) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.updateSettings(ProjectChoiceTab.java:555) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectSettingsPanel.UpdateDialog(ProjectSettingsPanel.java:245) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.ProjectManagerView.propertyChange(ProjectManagerView.java:391) ~[filemanager.jar:?]
+	at java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:343) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:335) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:268) ~[?:?]
+	at com.st.microxplorer.util.MXPropertyChangeSupport.firePropertyChange(MXPropertyChangeSupport.java:54) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.mxsystem.MxSystem.closeConfig(MxSystem.java:899) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.maingui.MainPanel.closeConfig(MainPanel.java:789) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.OpenFileManager.loadConfigurationFile(OpenFileManager.java:287) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.MainFileManager.userLoadConfig(MainFileManager.java:341) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.MainFileManager.userLoadConfig(MainFileManager.java:319) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.FileManagerView.getSpecificTask(FileManagerView.java:246) ~[filemanager.jar:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor.getMxTabbedPaneInstance(CubeMxEditor.java:1198) ~[com.st.stm32cube.common.mx_6.14.0.202502271554/:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor$12$1.createSwingComponent(CubeMxEditor.java:1068) ~[com.st.stm32cube.common.mx_6.14.0.202502271554/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.doComponentCreation(EmbeddedSwingComposite.java:492) ~[com.st.stm32cube.common.mx.oss_6.14.0.202502271554/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$4.run(EmbeddedSwingComposite.java:291) ~[com.st.stm32cube.common.mx.oss_6.14.0.202502271554/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:166) ~[com.st.stm32cube.common.mx.oss_6.14.0.202502271554/:?]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:720) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:714) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:400) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:87) ~[?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) ~[?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
+2025-04-05 01:18:00,362 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2025-04-05 01:18:00,363 [INFO] ThirdParty:873 - entering critical section [close project]
+2025-04-05 01:18:00,363 [INFO] ThirdParty:883 - exiting critical section [close project]
+2025-04-05 01:18:00,366 [INFO] PinOutPanel:1589 - setPackage(No Configuration,No Configuration)
+2025-04-05 01:18:00,390 [WARN] IpParametersView:155 - Warning: This peripheral hasn't parameters
+2025-04-05 01:18:00,402 [WARN] MainPanel:289 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2025-04-05 01:18:00,415 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 939410952 Bytes (1073741824)
+2025-04-05 01:18:00,419 [INFO] MicroXplorer:468 - Change Database Path : 
+2025-04-05 01:18:00,420 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.140
+2025-04-05 01:18:00,420 [INFO] OpenFileManager:354 - Change cursor
+2025-04-05 01:18:00,496 [INFO] RulesReader:64 - Compatibility file has been processed (301 Rules)
+2025-04-05 01:18:00,512 [INFO] Mcu:2011 - Initializing MCU STM32F407V(E-G)Tx STM32F407VGTx STM32F407VGT6
+2025-04-05 01:18:02,863 [INFO] Context:756 - Trying to add GPIOservice into a context  which must be forbidden
+2025-04-05 01:18:03,438 [INFO] ImportTextPane:218 - (OptionalMessage_ERROR) Pin39 (VP_RIF_VS_RIF1) cannot be retrieved for this MCU
+2025-04-05 01:18:03,504 [INFO] RtosManager:558 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2025-04-05 01:18:03,504 [INFO] RtosManager:558 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2025-04-05 01:18:03,505 [INFO] RtosManager:558 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2025-04-05 01:18:03,505 [INFO] RtosManager:558 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2025-04-05 01:18:03,505 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2025-04-05 01:18:03,526 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,527 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,527 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,527 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,527 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,527 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,527 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,527 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,527 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,527 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,528 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,528 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,528 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,528 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,528 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,528 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,528 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,528 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,528 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,529 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,529 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,529 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,529 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,529 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,529 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,529 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,529 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,529 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,530 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,530 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,530 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,530 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,530 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,530 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,530 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2025-04-05 01:18:03,530 [WARN] ModelPack:524 - Component already loaded: STMicroelectronics:HAL Drivers:0.0.0:STMicroelectronics:Device:STMicro_Driver:XSPI:HAL::0.0.1:HAL_XSPI
+2025-04-05 01:18:03,752 [INFO] ThirdPartyModel:298 - Start build external matchings
+2025-04-05 01:18:04,519 [INFO] ThirdPartyModel:316 - End build external matchings
+2025-04-05 01:18:04,542 [INFO] ImportTextPane:218 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (4000000)
+2025-04-05 01:18:05,796 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 600402256 Bytes (1073741824)
+2025-04-05 01:18:05,996 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2025-04-05 01:18:05,999 [INFO] ThirdParty:835 - entering critical section [change project]
+2025-04-05 01:18:06,004 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2025-04-05 01:18:06,005 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.3.0
+2025-04-05 01:18:06,005 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC9 1.0.0
+2025-04-05 01:18:06,005 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2025-04-05 01:18:06,005 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENVWB1 1.4.0
+2025-04-05 01:18:06,005 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2025-04-05 01:18:06,005 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2025-04-05 01:18:06,005 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.2
+2025-04-05 01:18:06,006 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 7.1.0
+2025-04-05 01:18:06,006 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2025-04-05 01:18:06,006 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-WB05N 1.1.0
+2025-04-05 01:18:06,006 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfMQTT 1.19.2
+2025-04-05 01:18:06,006 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2025-04-05 01:18:06,006 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 2.1.0
+2025-04-05 01:18:06,006 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 2.0.0
+2025-04-05 01:18:06,006 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 7.0.1
+2025-04-05 01:18:06,008 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2025-04-05 01:18:06,008 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 2.0.0
+2025-04-05 01:18:06,008 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.25.0
+2025-04-05 01:18:06,008 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2025-04-05 01:18:06,009 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC6 3.1.0
+2025-04-05 01:18:06,009 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-STBOX1 2.0.0
+2025-04-05 01:18:06,009 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2025-04-05 01:18:06,009 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2025-04-05 01:18:06,009 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SAFEA1 1.2.2
+2025-04-05 01:18:06,009 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2025-04-05 01:18:06,009 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DPower 1.2.0
+2025-04-05 01:18:06,010 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2025-04-05 01:18:06,010 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7RS 1.1.0
+2025-04-05 01:18:06,010 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2025-04-05 01:18:06,010 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :EmbeddedOffice I-CUBE-FS-RTOS 1.0.1
+2025-04-05 01:18:06,010 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2025-04-05 01:18:06,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Cesanta I-CUBE-Mongoose 7.13.0
+2025-04-05 01:18:06,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2025-04-05 01:18:06,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :Infineon AIROC-Wi-Fi-Bluetooth-STM32 1.7.0
+2025-04-05 01:18:06,012 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2025-04-05 01:18:06,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2025-04-05 01:18:06,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2025-04-05 01:18:06,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfTPM 3.8.0
+2025-04-05 01:18:06,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2025-04-05 01:18:06,013 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSH 1.4.20
+2025-04-05 01:18:06,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TCPP 4.2.0
+2025-04-05 01:18:06,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :RealThread X-CUBE-RT-Thread_Nano 4.1.1
+2025-04-05 01:18:06,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2025-04-05 01:18:06,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC10 1.0.0
+2025-04-05 01:18:06,014 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 4.0.0
+2025-04-05 01:18:06,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 5.1.0
+2025-04-05 01:18:06,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2025-04-05 01:18:06,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2025-04-05 01:18:06,015 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-IPS 3.1.0
+2025-04-05 01:18:06,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.2
+2025-04-05 01:18:06,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.3.0
+2025-04-05 01:18:06,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.3.0
+2025-04-05 01:18:06,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.1
+2025-04-05 01:18:06,016 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2025-04-05 01:18:06,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.7.6
+2025-04-05 01:18:06,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :ITTIA_DB I-CUBE-ITTIADB 8.9.0
+2025-04-05 01:18:06,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2025-04-05 01:18:06,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :quantropi X-CUBE-qispace-sdk-base 2.0.0
+2025-04-05 01:18:06,017 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 10.0.0
+2025-04-05 01:18:06,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2025-04-05 01:18:06,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-SMARTAG2 1.2.0
+2025-04-05 01:18:06,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.1.0
+2025-04-05 01:18:06,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 11.1.0
+2025-04-05 01:18:06,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 2.0.0
+2025-04-05 01:18:06,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2025-04-05 01:18:06,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.4.0
+2025-04-05 01:18:06,018 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DPower 1.3.0
+2025-04-05 01:18:06,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 5.0.0
+2025-04-05 01:18:06,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2025-04-05 01:18:06,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2025-04-05 01:18:06,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2025-04-05 01:18:06,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2025-04-05 01:18:06,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2025-04-05 01:18:06,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2025-04-05 01:18:06,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2025-04-05 01:18:06,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.4.2
+2025-04-05 01:18:06,019 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2025-04-05 01:18:06,020 [INFO] ThirdParty:841 - exiting critical section [change project]
+2025-04-05 01:18:06,563 [INFO] PinOutPanel:1589 - setPackage(No Configuration,No Configuration)
+2025-04-05 01:18:06,570 [INFO] PinOutPanel:1589 - setPackage(STM32F407VGTx,LQFP100)
+2025-04-05 01:18:07,083 [INFO] UtilMem:75 - Before build in PCC Used Memory: 791120384 Bytes (1073741824)
+2025-04-05 01:18:07,872 [INFO] UtilMem:75 - After build in PCC Used Memory: 835682816 Bytes (1073741824)
+2025-04-05 01:18:07,935 [INFO] ApiDbMcu:508 - Load IP Config File for USB_HOST
+2025-04-05 01:18:07,945 [WARN] BspModel:444 - BSP dependency skipped because of component: name='IOExpander', api='Unknown'
+2025-04-05 01:18:08,015 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,015 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,015 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,016 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,016 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,019 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,020 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,020 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,022 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,022 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,025 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,027 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,029 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,030 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,036 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,036 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,036 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,037 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,038 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,038 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,039 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,039 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,040 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,040 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,044 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,045 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,045 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,046 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,046 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,048 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,049 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,049 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,050 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,051 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,052 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,053 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,054 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,055 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,056 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,056 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,057 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,059 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,060 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,061 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,061 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,062 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,068 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,069 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,070 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,070 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,071 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,072 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-05 01:18:08,092 [INFO] ApiDbMcu:508 - Load IP Config File for PDM2PCM
+2025-04-05 01:18:08,409 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-04-05 01:18:08,409 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-04-05 01:18:08,420 [INFO] I2sManager:658 - 9.6E7
+2025-04-05 01:18:08,420 [INFO] I2sManager:195 - I2S Clock Value : 9.6E7
+2025-04-05 01:18:08,421 [INFO] I2sManager:553 - AudioClock : 93750Divider : 2Odd : 0
+2025-04-05 01:18:08,585 [INFO] CADModel:165 - CPN selected for project levelSTM32F407VGT6
+2025-04-05 01:18:08,585 [INFO] CADModel:114 - Register for checkConnection events
+2025-04-05 01:18:08,701 [INFO] OpenFileManager:385 - Restore cursor
+2025-04-05 01:18:08,814 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-04-05 01:18:08,814 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2025-04-05 01:18:08,815 [WARN] IP:2250 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2025-04-05 01:18:08,815 [WARN] IP:2250 - Analog_Filter not found: check if there is a RefParameter without a condition.

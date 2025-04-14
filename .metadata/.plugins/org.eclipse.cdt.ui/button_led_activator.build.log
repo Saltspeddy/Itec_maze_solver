@@ -1,0 +1,10 @@
+11:46:20 **** Incremental Build of configuration Debug for project button_led_activator ****
+make -j12 all 
+arm-none-eabi-size  button_led_activator.elf 
+   text	   data	    bss	    dec	    hex	filename
+  35740	    124	   4124	  39988	   9c34	button_led_activator.elf
+Finished building: default.size.stdout
+ 
+
+11:46:20 Build Finished. 0 errors, 0 warnings. (took 981ms)
+
