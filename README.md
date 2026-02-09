@@ -1,6 +1,6 @@
 # Maze Solver Robot for ITEC#18
 
-This repository contains code snippets used in developing a maze solver robot for the ITEC#18 competition. The robot was built in just 44 hours as part of the challenge.
+This repository contains code snippets used in developing a maze solver robot for the ITEC#18 competition. The robot was built in just 44 hours as part of the challenge in a 2 man team with https://github.com/christian-micea.
 
 ## Robot Overview
 
